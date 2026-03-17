@@ -15,7 +15,7 @@ O sistema permite registrar despesas, organizar por categorias, calcular o saldo
 
 ### Frontend
 - HTML5
-- CSS3 (layout premium customizado)
+- CSS3 
 - JavaScript
 - Chart.js (para gráficos)
 
